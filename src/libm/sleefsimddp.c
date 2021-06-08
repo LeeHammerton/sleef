@@ -6,7 +6,7 @@
 // Always use -ffp-contract=off option to compile SLEEF.
 
 #include <stdint.h>
-#include <assert.h>
+//#include <assert.h>
 #include <limits.h>
 #include <float.h>
 
